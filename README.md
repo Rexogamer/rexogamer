@@ -8,7 +8,7 @@ I'm Ed, but call me Rexo. When not playing games I like to code, and open source
 - [**Rias-EN**](https://github.com/rexogamer/Rias-EN) is an English translation of a French music bot made by @Sworder71.
 
 ## Contacting me
-- You can DM me on **Discord** at Rexowogamer#1183. This is the best way to contact me as I check Discord frequently.
-- If you're not a fan of Discord, I'm also on **Matrix** at rexogamer:mozilla.org.
-- I also have **Twitter.** I accept DMs from anyone (you don't need me to be following you). My handle is @RexogamerS.
+- You can DM me on [**Discord**](https://discord.com) at Rexowogamer#1183. This is the best way to contact me as I check Discord frequently.
+- If you're not a fan of Discord, I'm also on [**Matrix**](https//matrix.org) at rexogamer:mozilla.org.
+- I also have [**Twitter!**](https://twitter.com) I accept DMs from anyone (you don't need me to be following you). My handle is [@RexogamerS.](https://twitter.com/@RexogamerS)
 - Finally, if you're not a fan of more modern services like these, you can send an **email** to the publicly listed email on my profile (beartechtalks@gmail.com). (Tip: if it's about Cytrus-RE in particular, you can also email help.ttsbotsnapps@gmail.com; this is prefered as it means I know what you want help with quicker and means your email is more likely to be seen.)
