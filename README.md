@@ -4,7 +4,7 @@ I'm Ed, but call me Rexo. When not playing games I like to code, and open source
 ## My repositories
 - [**Cytrus-RE**](https://github.com/cytrus-re/cytrus-re) is a multi-purpose Discord bot, including quite a few handy little features like GitHub/NPM searching. You can invite it to your server via the link in the README.
 - [**cytrus-re.github.io**](https://github.com/cytrus-re/cytrus-re.github.io) is Cytrus-RE's website, and includes a command list and info on the devs, with more to come in the future :eyes:
-- [**ishupdater**](https://github.com/rexogamer/ishupdater) is a little tool I made for updating [iSH](https://github.com/ish-app/ish) that updates Alpine and the MOTD (if you put the version in there like myself). Probably more niche but it's handy for me.
+- [**iSHUpdater**](https://github.com/rexogamer/ishupdater) is a little tool I made for updating [iSH](https://github.com/ish-app/ish) that updates Alpine and the MOTD (if you put the version in there like myself). Probably more niche but it's handy for me.
 - [**Rias-EN**](https://github.com/rexogamer/Rias-EN) is an English translation of a French music bot made by @Sworder71.
 
 ## Contacting me
