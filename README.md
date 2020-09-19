@@ -1,5 +1,5 @@
 # Heya!
-I'm Ed, but call me Rexo. When not playing games I like to code, and open source is :ok_hand:. I mainly focus on JS/TS as that's where my knowledge is (however I'd say I'm still a beginner), however I also know some Python.
+I'm Rexo. When not playing games I like to code, and open source is :ok_hand:. I mainly focus on JS/TS as that's where my knowledge is (however I'd say I'm still a beginner), however I also know some Python.
 
 ## My repositories
 - [**Cytrus-RE**](https://github.com/cytrus-re/cytrus-re) is a multi-purpose Discord bot, including quite a few handy little features like GitHub/NPM searching. You can invite it to your server via the link in the README.
